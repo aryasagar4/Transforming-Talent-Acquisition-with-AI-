@@ -3,6 +3,7 @@ This project leverages Workato Genie, Slack, and Agentic AI (powered by Anthropi
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Introduction**
+
 The Talent Acquisition team faces several challenges in hiring the right talent quickly and efficiently:
 1. Resume Screening – Filtering hundreds of resumes against a job description is slow and inconsistent.
 2. Resume Standardization – Client-facing resumes must follow Jade’s standard format, requiring cleanup, redaction, and formatting.
@@ -12,3 +13,4 @@ The Talent Acquisition team faces several challenges in hiring the right talent 
 This project introduces an Agentic AI-driven TA Assistant that addresses these gaps by automating routine tasks, improving decision-making, and creating a seamless recruiter experience.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
