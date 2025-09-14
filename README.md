@@ -41,7 +41,7 @@ The solution helps leaders and recruiters answer questions like:
 
   <img width="3840" height="2161" alt="Untitled diagram _ Mermaid Chart-2025-09-14-151543" src="https://github.com/user-attachments/assets/2f5d24d1-ec22-40f9-9f68-9f30a421e82b" />
 
-  <br><br>
+  <br>
 
   <img width="816" height="483" alt="AI-Powered Recruitment Automation System - visual selection" src="https://github.com/user-attachments/assets/eeb3d3f8-d089-49cf-9ab1-3e8226d696eb" />
 
