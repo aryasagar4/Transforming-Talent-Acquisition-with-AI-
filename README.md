@@ -28,9 +28,6 @@ This project introduces an Agentic AI-driven TA Assistant that addresses these g
 
 The solution helps leaders and recruiters answer questions like:
 1. Which resumes best match a given JD?
-  
-   A- Resumes are parsed and evaluated against the JD using Claude LLM. Each candidate receives a match score (e.g., 0–100) based on skill relevance, experience level, and alignment with job responsibilities. Recruiters get a ranked shortlist instantly.
-
 2. Are candidate resumes client-ready (standardized, clean, consistent)?
 3. What is the interview pipeline health (scheduled, pending feedback, no-shows)?
 4. Which candidates are at risk of dropping off after offer rollout?
@@ -41,15 +38,15 @@ The solution helps leaders and recruiters answer questions like:
 **Analytical Framework**
 
 The project uses a layered AI framework:
-1. Resume Parsing & Screening: Workato Genie + LLM evaluates resumes against JD in real-time. Candidate scoring based on skills, experience, and role fit.
+1. Resume Parsing & Screening: Workato Genie + LLM leveraged through/ using Slack evaluates resumes against JD in real-time. Candidate scoring based on skills, experience, and role fit.
 
-2. Resume Standardization: Automatic removal of personal details. Grammar/spelling correction and template formatting.
+2. Resume Standardization: Automated conversion of candidate resumes into Jade’s standard format, eliminating manual editing and ensuring consistency.
 
-3. Interview Scheduling & Feedback Management: Slack integration for candidate/panel coordination. Automated reminders and post-interview feedback collection.
+3. Interview Scheduling & Feedback Management: Slack integration for candidate/panel coordination with the help of Google Calender and GMail. Automated reminders to candidates reminding them of the scheduled interview.
 
-4. Post-Offer Engagement: Automated, personalized Slack/Email follow-ups. AI-driven engagement check-ins to reduce dropouts.
+4. Post-Offer Engagement: Automated, personalized Email follow-ups. AI-driven engagement check-ins to reduce dropouts.
 
-5. Knowledge Base: Centralized repository of JDs, candidate data, and recruiter insights. AI uses this knowledge base to evaluate candidates dynamically and respond to runtime prompts.
+5. Knowledge Base: Centralized repository of candidate data for recruiter insights and adding JD at run time. AI uses this knowledge base to evaluate candidates dynamically and respond to runtime prompts.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -76,7 +73,7 @@ The project uses a layered AI framework:
 
 1. Workato Genie – Workflow orchestration, recipe automation, and integrations.
 2. Slack – Collaboration hub for recruiters, candidates, and panels.
-3. Google Suite – Storage and document management (resumes, JDs, onboarding).
+3. Google Suite – Storage and document management, and Calender scheduling (resumes, JDs, onboarding).
 4. Anthropic Claude (LLM) – AI model powering screening, standardization, and runtime evaluation.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
