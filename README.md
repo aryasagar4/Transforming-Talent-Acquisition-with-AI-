@@ -48,3 +48,31 @@ The project uses a layered AI framework:
 5. Knowledge Base: Centralized repository of JDs, candidate data, and recruiter insights. AI uses this knowledge base to evaluate candidates dynamically and respond to runtime prompts.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Data Best Practices**
+
+1. Data Security: Candidate personal data is redacted before AI processing.
+2. Data Consistency: Standardized resume templates for client sharing.
+3. Data Governance: Knowledge base segmented by JD, role, and candidate lifecycle stage.
+4. Runtime Processing: AI can handle new resumes/JDs fed into the backend without retraining.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Insights and Impact**
+
+1. Efficiency: Reduced recruiter time spent on resume screening and scheduling by >60%.
+2. Quality: More consistent client-ready resumes with minimal manual effort.
+3. Speed: Faster turnaround from resume submission to interview scheduling.
+4. Engagement: Improved post-offer candidate connect, reducing dropout rates.
+5. Scalability: AI scales seamlessly with increasing hiring volume without proportional recruiter overhead.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Tools Used**
+
+1. Workato Genie – Workflow orchestration, recipe automation, and integrations.
+2. Slack – Collaboration hub for recruiters, candidates, and panels.
+3. Google Suite – Storage and document management (resumes, JDs, onboarding).
+4. Anthropic Claude (LLM) – AI model powering screening, standardization, and runtime evaluation.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
