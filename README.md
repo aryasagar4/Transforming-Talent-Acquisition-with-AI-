@@ -28,8 +28,7 @@ This project introduces an Agentic AI-driven TA Assistant that addresses these g
 
 The solution helps leaders and recruiters answer questions like:
 1. Which resumes best match a given JD?
-
-A- Resumes are parsed and evaluated against the JD using Claude LLM. Each candidate receives a match score (e.g., 0–100) based on skill relevance, experience level, and alignment with job responsibilities. Recruiters get a ranked shortlist instantly.
+   A- Resumes are parsed and evaluated against the JD using Claude LLM. Each candidate receives a match score (e.g., 0–100) based on skill relevance, experience level, and alignment with job responsibilities. Recruiters get a ranked shortlist instantly.
 
 2. Are candidate resumes client-ready (standardized, clean, consistent)?
 3. What is the interview pipeline health (scheduled, pending feedback, no-shows)?
