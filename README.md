@@ -76,3 +76,9 @@ The project uses a layered AI framework:
 4. Anthropic Claude (LLM) – AI model powering screening, standardization, and runtime evaluation.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Conclusion**
+
+This project transforms Jade’s TA process from a manual, reactive workflow into an AI-driven, proactive system. By combining Workato Genie, Slack, and Claude LLM, recruiters can focus on strategic hiring decisions while automation handles the heavy lifting.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
