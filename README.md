@@ -1,7 +1,9 @@
 AI POWERED TALENT ACQUISITION
-As Jade continues to expand its business, our Talent Acquisition (TA) process must evolve to keep pace. Traditionally, the TA process has been manual, tedious, and inefficient — resulting in lost productivity and delays in hiring the right talent.
-This project leverages Workato Genie(powered by Anthropic Claude), Slack and Google Suite to build a next-generation TA assistant that automates repetitive workflows, ensures consistency, and provides actionable insights.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+As Jade continues to expand its business, our Talent Acquisition (TA) process must evolve to keep pace. Traditionally, the TA process has been manual, tedious, and inefficient — resulting in lost productivity and delays in hiring the right talent.This project leverages Workato Genie (Agentic AI powered by Anthropic Claude), Slack, Google Suite (Gmail + Calendar), and Intelligent Document Processing (IDP) in Workato Apps to build a next-generation TA assistant that automates repetitive workflows, ensures consistency, and provides actionable insights.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Introduction**
 
