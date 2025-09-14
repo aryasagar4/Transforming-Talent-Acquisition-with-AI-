@@ -1,5 +1,6 @@
+AI POWERED TALENT ACQUISITION
 As Jade continues to expand its business, our Talent Acquisition (TA) process must evolve to keep pace. Traditionally, the TA process has been manual, tedious, and inefficient — resulting in lost productivity and delays in hiring the right talent.
-This project leverages Workato Genie, Slack, and Agentic AI (powered by Anthropic Claude) to build a next-generation TA assistant that automates repetitive workflows, ensures consistency, and provides actionable insights.
+This project leverages Workato Genie(powered by Anthropic Claude), Slack and Google Suite to build a next-generation TA assistant that automates repetitive workflows, ensures consistency, and provides actionable insights.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Introduction**
@@ -16,10 +17,10 @@ This project introduces an Agentic AI-driven TA Assistant that addresses these g
 
 **Representative Data**
 
-1. Resumes: Unstructured PDF/Docx/Images (jpg, png etc) files submitted by candidates.
+1. Resumes: Unstructured PDF/Docx/Images (jpg, png etc) files.
 2. Job Descriptions (JD): Text files capturing role, skills, and experience requirements.
 3. TA Process Data: Interview schedules, recruiter notes, panel feedback, and offer details.
-4. Engagement Data: Email/Slack follow-ups, onboarding material, and candidate interaction logs.
+4. Engagement Data: Email follow-ups, onboarding material, and candidate interaction logs.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,6 +28,9 @@ This project introduces an Agentic AI-driven TA Assistant that addresses these g
 
 The solution helps leaders and recruiters answer questions like:
 1. Which resumes best match a given JD?
+
+A- Resumes are parsed and evaluated against the JD using Claude LLM. Each candidate receives a match score (e.g., 0–100) based on skill relevance, experience level, and alignment with job responsibilities. Recruiters get a ranked shortlist instantly.
+
 2. Are candidate resumes client-ready (standardized, clean, consistent)?
 3. What is the interview pipeline health (scheduled, pending feedback, no-shows)?
 4. Which candidates are at risk of dropping off after offer rollout?
