@@ -38,22 +38,24 @@ The solution helps leaders and recruiters answer questions like:
 
 The project uses a layered AI framework:
 1. Resume Parsing & Screening
+   
 a. Workato Genie + LLM evaluates resumes against JD in real-time.
+
 b. Candidate scoring based on skills, experience, and role fit.
 
-2. Resume Standardization
+3. Resume Standardization
   -Automatic removal of personal details.
   -Grammar/spelling correction and template formatting.
 
-3. Interview Scheduling & Feedback Management
+4. Interview Scheduling & Feedback Management
   -Slack integration for candidate/panel coordination.
   -Automated reminders and post-interview feedback collection.
 
-4. Post-Offer Engagement
+5. Post-Offer Engagement
   -Automated, personalized Slack/Email follow-ups.
   -AI-driven engagement check-ins to reduce dropouts.
 
-5. Knowledge Base
+6. Knowledge Base
   -Centralized repository of JDs, candidate data, and recruiter insights.
   -AI uses this knowledge base to evaluate candidates dynamically and respond to runtime prompts.
 
