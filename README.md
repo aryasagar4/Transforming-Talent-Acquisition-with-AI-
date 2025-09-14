@@ -14,3 +14,11 @@ This project introduces an Agentic AI-driven TA Assistant that addresses these g
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Representative Data**
+
+1. Resumes: Unstructured PDF/Docx files submitted by candidates.
+2. Job Descriptions (JD): Text files capturing role, skills, and experience requirements.
+3. TA Process Data: Interview schedules, recruiter notes, panel feedback, and offer details.
+4. Engagement Data: Email/Slack follow-ups, onboarding material, and candidate interaction logs.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
