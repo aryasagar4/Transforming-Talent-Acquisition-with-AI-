@@ -38,8 +38,9 @@ The solution helps leaders and recruiters answer questions like:
 
 The project uses a layered AI framework:
 1. Resume Parsing & Screening
-Workato Genie + LLM evaluates resumes against JD in real-time.
-Candidate scoring based on skills, experience, and role fit.
+
+  -Workato Genie + LLM evaluates resumes against JD in real-time.
+  -Candidate scoring based on skills, experience, and role fit.
 
 2. Resume Standardization
   -Automatic removal of personal details.
