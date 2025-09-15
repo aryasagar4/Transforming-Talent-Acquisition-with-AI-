@@ -2,6 +2,11 @@ AI POWERED TALENT ACQUISITION: PnT Genie
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 As Jade continues to expand its business, our Talent Acquisition (TA) process must evolve to keep pace. Traditionally, the TA process has been manual, tedious, and inefficient resulting in lost productivity and delays in hiring the right talent. This project leverages **Workato Genie (Agentic AI powered by Anthropic Claude)**, **Slack**, **Google Suite (Gmail + Calendar)**, and **Intelligent Document Processing (IDP)** in **Workato Apps** to build a next-generation TA assistant that automates repetitive workflows, ensures consistency, and provides actionable insights.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fafa362d-616b-4435-a66e-a7600ddd0cc6" alt="image (3)" width="80%" />
+</p>
+
+
 Side note- Zip File attached that is also known as Manifest, can be imported using recipe life cycle tool in Workato.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
